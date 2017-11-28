@@ -1,0 +1,67 @@
+Event Log File
+Record
+Click on Desktop
+Click on Desktop
+Click on Movies Folder
+Click on images Folder
+DoubleClick on images Folder
+Open PPT
+Close PPT
+Save
+Click on Desktop
+Click on Desktop
+Click on Desktop
+Click on Desktop
+Click on Desktop
+Click on Desktop
+Click on Desktop
+Click on Desktop
+Open PPT
+Click on add new Image
+Insert new image:/images/cat.jpeg
+Click on add new Image
+Insert new image:/images/data.jpg
+Click on add new Image
+Click on add new Image
+Cancel Automate
+Click on add new Image
+Insert new image:/images/logo.jpg
+Click on add new Image
+Insert new image:/images/ml.jpg
+Click on add new Image
+Close PPT
+Open PPT
+Click on add new Image
+Insert new image:/images/cat.jpeg
+Click on add new Image
+Insert new image:/images/data.jpg
+Click on add new Image
+Close PPT
+Record
+Click on Desktop
+Click on Desktop
+Click on Documents Folder
+Click on Movies Folder
+Click on images Folder
+Click on Desktop
+Click on Desktop
+Click on Desktop
+Click on Desktop
+Save
+Record
+Click on Desktop
+Open PPT
+Click on add new Image
+Insert new image:/images/cat.jpeg
+Click on add new Image
+Insert new image:/images/data.jpg
+Save
+Close PPT
+Open PPT
+Click on add new Image
+Click on add new Image
+Insert new image:/images/cat.jpeg
+Click on add new Image
+Insert new image:/images/data.jpg
+Close PPT
+Click on Desktop

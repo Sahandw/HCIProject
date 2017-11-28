@@ -1,0 +1,8 @@
+Record
+Click on Desktop
+Click on Desktop
+Click on images Folder
+DoubleClick on images Folder
+Open PPT
+Close PPT
+Save

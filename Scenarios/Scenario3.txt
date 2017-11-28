@@ -1,0 +1,7 @@
+Record
+Open PPT
+Click on add new Image
+Insert new image:/images/cat.jpeg
+Click on add new Image
+Insert new image:/images/data.jpg
+Save
